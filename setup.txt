@@ -1,0 +1,5 @@
+to create virtual environment:
+
+python3 -m venv sample_venv
+
+start venv:
